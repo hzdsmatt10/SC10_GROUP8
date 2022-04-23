@@ -14,10 +14,11 @@
 ### Can we use data science to determine the overall champion? 
 ### And if so, what are those determining features?
 
+#
 
 # Models Used
-### Decision tree
-### Logistic Regression
+#### Decision tree
+#### Logistic Regression
 
 
 

@@ -4,7 +4,7 @@
 
 
 
-# contributors
-## Matthias - Motivation, Research question, cleaning of dataset, logistic regression, oversampling
-## Matthew - filtering of variables, EDA, cleaning of data
-## Cheng Yin - cleaning of data, decision tree and hyperparameter tuning
+# Contributors
+### Matthias - Motivation, Research question, cleaning of dataset, logistic regression, oversampling
+### Matthew - filtering of variables, EDA, cleaning of data
+### Cheng Yin - cleaning of data, decision tree and hyperparameter tuning

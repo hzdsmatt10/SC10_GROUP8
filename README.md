@@ -11,7 +11,7 @@
 
 # Problem Definition
 #### Can we use NBA regular season to determine the NBA champion?
-#### And if so, what are those determining features?
+#### If so, what are those variables?
 
 
 # Methods to filter out the variables

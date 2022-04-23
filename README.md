@@ -10,7 +10,7 @@
 
 
 # Problem Definition
-#### Can we use data science to determine the overall champion? 
+#### Can we use NBA regular season to determine the NBA champion?
 #### And if so, what are those determining features?
 
 

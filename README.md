@@ -32,8 +32,10 @@
 
 
 # Conclusions
-
-
+#### How efficiently a team shoots is integral to be the champion
+#### How well rounded you are as a team is integral in your championship run
+#### It is possible to determine the NBA champion based on regular season statistics even if they seem unrelated
+#### Decision tree tends to perform slightly better than logistic regression
 
 
 
@@ -42,7 +44,7 @@
 #### https://www.section.io/engineering-education/hyperparmeter-tuning/ - hyperparameter tuning
 #### https://www.projectpro.io/recipes/optimize-hyper-parameters-of-decisiontree-model-using-grid-search-in-python - hyperparameter tuning
 #### https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5 -logistic regression and the hyperparameter tuning
-#### https://towardsdatascience.com/how-to-effortlessly-handle-class-imbalance-with-python-and-smote-9b715ca8e5a7
+#### https://towardsdatascience.com/how-to-effortlessly-handle-class-imbalance-with-python-and-smote-9b715ca8e5a7 - SMOTE
 
 
 
